@@ -1,2 +1,2 @@
-# aula01-microinform-tica
+# aula01-microinformatica
 Aula de HTML/CSS
